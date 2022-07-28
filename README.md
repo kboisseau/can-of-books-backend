@@ -74,7 +74,7 @@ Same as if one person is pulling all the weight. Have a conversation about what 
 
 Support each other with our strengths, knowing that we are strong/weak in different areas.
 
-**Name of feature: READ of CRUD 1**
+**Name of feature: READ of CRUD**
 
 Estimate of time needed to complete: 4 hours
 
@@ -84,7 +84,7 @@ Finish time: 4pm
 
 Actual time needed to complete: 6 hours
 
-**Name of feature: READ of CRUD 2**
+**Name of feature: CREATE and DELETE of CRUD**
 
 Estimate of time needed to complete: 4 hours
 
@@ -93,6 +93,16 @@ Start time: 2:00pm (pause at 4pm, resume at 6pm)
 Finish time: 9:00pm
 
 Actual time needed to complete: 5 hours
+
+**Name of feature: UPDATE of CRUD**
+
+Estimate of time needed to complete: 2.5 hours
+
+Start time: 2:00pm 
+
+Finish time: 
+
+Actual time needed to complete: 
 
 
 
