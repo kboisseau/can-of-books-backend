@@ -16,9 +16,11 @@ React, Node.js, MongoDB Atlas, Mongoose, Heroku, Netlify, Bootstrap
 
 07-26-2022 4:00pm - Application now has a fully-functional express server, with a GET route for the books resource.
 07-26-2022 11:00pm - Application now gives user the ability to add and delete books from state.
+07-26-2022 1:00pm - Application gives user the ability to add and delete books from state and database.
 
 ## Credit and Collaborations
 Jacob Knaack - Demo code and revision
+Brandon Mizutani - Help with add/delete book functions
 
 ## Professional Pairing Practice
 
